@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Hatice
+# Hi there, I'm Hatice 👋
 🌱 I’m currently coding Java
 <!--
 - 🔭 I’m currently working on ...
