@@ -1,5 +1,7 @@
 # Hi there, I'm Hatice 👋
-🌱 I’m currently coding Java
+## About Me
+I'm a Computer Science Graduate from Yildiz Technical University in Istanbul, Turkey
+- 🌱 I’m currently coding Java
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
